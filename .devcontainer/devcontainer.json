@@ -1,3 +1,10 @@
 {
-	"image": "mcr.microsoft.com/vscode/devcontainers/typescript-node"
+	"image": "mcr.microsoft.com/vscode/devcontainers/typescript-node",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Vue.volar"
+			]
+		}
+	}
 }
