@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Sales Leadership & Strategy",
+    "subtitle": "Experienced Sales Manager with a proven track record of driving revenue growth and building high-performing teams",
+    "contact": "Get in touch",
+    "latest_posts": "Latest Blog Posts"
+  },
+  "blog": {
+    "title": "Blog"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "With over 15 years of experience in sales management, I've helped organizations achieve exceptional growth through strategic leadership and team development.",
+    "experience": {
+      "title": "Experience",
+      "items": [
+        "Led sales teams of 20+ professionals across multiple regions",
+        "Achieved 150% of revenue targets consistently over 5 years",
+        "Implemented successful sales strategies for Fortune 500 companies",
+        "Developed and executed comprehensive training programs"
+      ]
+    },
+    "skills": {
+      "title": "Key Skills",
+      "items": [
+        "Strategic Sales Planning",
+        "Team Leadership & Development",
+        "Revenue Growth & Optimization",
+        "Client Relationship Management",
+        "Sales Process Implementation"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "intro": "Interested in discussing how I can help drive your sales organization forward? Let's connect.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
