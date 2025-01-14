@@ -7,6 +7,6 @@ export default defineI18nConfig(() => {
     ],
     defaultLocale: 'en',
     langDir: '../locales',
-    strategy: 'prefix',
+    strategy: 'prefix_and_default',
   }
 })
