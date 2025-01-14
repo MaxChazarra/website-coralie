@@ -36,4 +36,6 @@ useHead({
     { name: 'description', content: 'Sales Management insights and industry trends' }
   ]
 })
+
+const localePath = useLocalePath()
 </script>

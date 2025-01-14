@@ -59,4 +59,5 @@ useHead({
     { name: 'description', content: 'Professional Sales Manager Portfolio - Expertise in driving revenue growth and team leadership' }
   ]
 })
+const localePath = useLocalePath()
 </script>
