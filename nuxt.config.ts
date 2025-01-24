@@ -7,6 +7,11 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxtjs/tailwindcss'
   ],
+  nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    }
+  },
   css: ['~/assets/css/main.css'],
   i18n: {
     locales: [
